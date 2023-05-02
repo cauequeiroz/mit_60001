@@ -1,11 +1,10 @@
 # Introduction to Computer Science and Programming Using Python
 
-This repository store files/exercises of MIT's Introduction to Computer Science and Programming Using Python course available at OCW.  
-[https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+This repository store files/exercises of MIT's Introduction to Computer Science and Programming Using Python course available at [OCW](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).  
 
 ## Progress
 
-**Start date:** 5/2/2023
+**Start date:** 5/2/2023  
 **End date:** - 
 
 - [x] What is computation?
